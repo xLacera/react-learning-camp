@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    font-family: "Gill Sans", sans-serif;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    text-decoration: overline;
+}
+h2 {
+    color: #856058;
+    font-size: 40px;
+}
+
+.headers {
+    color: #BE4025;
+    font-size: 30px;
+}
+
+p {
+    color: white;
+}
+
+#first_p {
+    color: blue;
+}
